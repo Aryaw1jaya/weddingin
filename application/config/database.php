@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'weddingin',
+	'hostname' => 'ec2-18-210-95-55.compute-1.amazonaws.com',
+	'username' => 'gegkzutfvbatyu',
+	'password' => '0b899b9be595d2fe7a165734707b61c9c27641c327d40da115bf0f7fa4e7ba42',
+	'database' => 'd70k1ll2ot6sov',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
