@@ -19,7 +19,7 @@ Class LaporanOrder extends CI_Controller{
         $pdf->Cell(280,7,'',0,1,'C');
         $pdf->Cell(280,7,'',0,1,'C');
         $pdf->SetFont('Arial','B',12);
-        $pdf->Cell(0,7,'REPORT ORDERAN',0,1,'C');
+        $pdf->Cell(0,7,'Laporan Order',0,1,'C');
         // Memberikan space kebawah agar tidak terlalu rapat
         $pdf->Cell(10,7,'',0,1);
         $pdf->SetFont('Arial','B',10);

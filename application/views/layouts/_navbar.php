@@ -49,10 +49,10 @@
 								Manage
 							</a>
 							<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-								<a class="dropdown-item" href="<?= base_url('product') ?>">Product</a>
+								<a class="dropdown-item" href="<?= base_url('product') ?>">Paket Pernikahan</a>
 								<a class="dropdown-item" href="<?= base_url('order') ?>">Order</a>
 								<a class="dropdown-item" href="<?= base_url('user') ?>">Users</a>
-								<a class="dropdown-item" href="<?= base_url('laporanorder') ?>">Report Orders</a>
+								<a class="dropdown-item" href="<?= base_url('laporanorder') ?>">Laporan</a>
 							</div>
 						</li>
 

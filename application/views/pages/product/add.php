@@ -1,7 +1,7 @@
 <div class="container">
 	<div class="row mt-4">
 		<div class="col">
-			<h2 class="text-center">Add New Product</h2>
+			<h2 class="text-center">Tambah Paket</h2>
 		</div>
 	</div>
 
@@ -10,7 +10,7 @@
 
 			<?= form_open_multipart(base_url('product/add')) ?>
 				<div class="form-group row">
-					<label for="name" class="col-sm-2 col-form-label font-weight-bold">Product Name</label>
+					<label for="name" class="col-sm-2 col-form-label font-weight-bold">Paket Pernikahan</label>
 					<div class="col-sm-10">
 						<input type="text" class="form-control" name="name">
 						<?= form_error('name', '<small class="form-text text-danger">', '</small>') ?>

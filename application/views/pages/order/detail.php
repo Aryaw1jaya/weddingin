@@ -26,7 +26,7 @@
 					<table class="table table-bordered text-center">
 						<thead class="thead-dark">
 							<tr>
-								<th>Product</th>
+								<th>Paket Pernikahan</th>
 								<th>Price</th>
 							</tr>
 						</thead>

@@ -1,12 +1,12 @@
 <div class="container">
 	<div class="row mt-4 mb-3">
 		<div class="col-11">
-			<h2>List Products</h2>
+			<h2>List Paket Pernikahan</h2>
 		</div>
 		<div class="col float-right">
 			<a href="<?= base_url('product/add') ?>" class="btn btn-primary btn-sm">
 				<i class="fas fa-plus"></i>
-				Wedding's
+				Paket
 			</a>
 		</div>
 	</div>

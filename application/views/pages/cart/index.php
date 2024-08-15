@@ -22,7 +22,7 @@
 							<thead class="thead-dark">
 								<tr>
 									<th>#</th>
-									<th>Products</th>
+									<th>Paket Pernikahan</th>
 									<th>Subtotal</th>
 									<th>Menu</th>
 								</tr>
